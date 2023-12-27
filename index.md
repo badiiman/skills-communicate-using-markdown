@@ -13,3 +13,10 @@
 Now we will test images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Now we will test the code block
+
+```Python
+hello = 'Hello World'
+print(hello)
+```
