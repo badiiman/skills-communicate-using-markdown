@@ -20,3 +20,11 @@ Now we will test the code block
 hello = 'Hello World'
 print(hello)
 ```
+
+This is the practice for the task lists
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Use this for the file renaming project
